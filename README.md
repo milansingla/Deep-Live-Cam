@@ -14,7 +14,7 @@
 
 ##  Disclaimer
 
-This deepfake software is designed to be a productive tool for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design.
+This deepfake software is designed to be a productive tools for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design.
 
 We are aware of the potential for unethical applications and are committed to preventative measures. A built-in check prevents the program from processing inappropriate media (nudity, graphic content, sensitive material like war footage, etc.). We will continue to develop this project responsibly, adhering to the law and ethics. We may shut down the project or add watermarks if legally required.
 
