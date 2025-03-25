@@ -28,7 +28,7 @@ We are aware of the potential for unethical applications and are committed to pr
 
 By using this software, you agree to these terms and commit to using it in a manner that respects the rights and dignity of others.
 
-Users are expected to use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. We are not responsible for end-user actions.
+Users are expected to the  use this software responsibly and legally. If using a real person's face, obtain their consent and clearly label any output as a deepfake when sharing online. We are not responsible for end-user actions.
 
 
 ## Quick Start - Pre-built (Windows / Nvidia)
